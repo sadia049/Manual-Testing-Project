@@ -1,5 +1,6 @@
 # Content
  * Introduction
+ * Test Plan
  * Mind Map
  * Test Scenario
  * Test Cases writing
@@ -10,6 +11,9 @@
 # Introduction
    This project is based on an e-commerce web application BD Shop.This project covers all the step by step procedure to perform manual testing.From creating a Mind map to visualize the scenario to writing test cases
     executing it, reporting the bug
+# Test Plan
+  ![testpan](https://github.com/user-attachments/assets/26bfb857-aca0-425d-93cd-36c7dba8be8d)
+
 # Mind Map
    ![image001](https://github.com/sadia049/Manual-Testing-Project/assets/62026906/af60f906-97e8-42ed-8fd8-aa3245b2b9f4)
 # Test Scenario
