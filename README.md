@@ -6,6 +6,7 @@
  * Test Cases writing
  * Environment Setup
  * Test Cases Execution
+ * Bug Report
  * Test Metrics
 
 # Introduction
@@ -26,6 +27,9 @@
    * Used Lucid chart for creating Mind Map
    * Hardware Configuration , 8GB RAM, Core i3 processor
 # Test Case Execution
+
+
+
      
 ![Screenshot (21)](https://github.com/sadia049/Manual-Testing-Project/assets/62026906/a2961ee5-ce40-4998-bfab-d47f280bc2fe)
 ![Screenshot (22)](https://github.com/sadia049/Manual-Testing-Project/assets/62026906/420ed340-9723-42e7-8bb2-c87b7269d54a)
