@@ -34,5 +34,11 @@
 ![Screenshot (21)](https://github.com/sadia049/Manual-Testing-Project/assets/62026906/a2961ee5-ce40-4998-bfab-d47f280bc2fe)
 ![Screenshot (22)](https://github.com/sadia049/Manual-Testing-Project/assets/62026906/420ed340-9723-42e7-8bb2-c87b7269d54a)
 
+# Bug Report
+![Screenshot (74)](https://github.com/user-attachments/assets/6bd41269-26a8-4904-9657-2d166fbfe7c9)
+
+
 # Test Metrics
    Evaluating performance by counting total no of test cases pass/failed
+
+
